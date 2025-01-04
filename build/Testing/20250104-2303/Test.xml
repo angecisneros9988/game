@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20250104-2303-Experimental"
+	Name="(empty)"
+	Generator="ctest-3.30.1"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Linux"
+	Hostname="angel-HP-ENVY-x360-Convertible-15m-es1xxx"
+	OSRelease="5.15.0-130-generic"
+	OSVersion="#140-Ubuntu SMP Wed Dec 18 17:59:53 UTC 2024"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="140"
+	ProcessorCacheSize="12288"
+	NumberOfLogicalCPU="8"
+	NumberOfPhysicalCPU="4"
+	TotalVirtualMemory="2047"
+	TotalPhysicalMemory="15758"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="1797.5"
+	>
+	<Testing>
+		<StartDateTime>Jan 04 15:03 PST</StartDateTime>
+		<StartTestTime>1736031817</StartTestTime>
+		<TestList/>
+		<EndDateTime>Jan 04 15:03 PST</EndDateTime>
+		<EndTestTime>1736031817</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

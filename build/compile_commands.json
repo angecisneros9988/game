@@ -1,0 +1,152 @@
+[
+{
+  "directory": "/home/angel/Documents/My-Projects/build",
+  "command": "/usr/bin/c++  -I/home/angel/Documents/My-Projects/SFML_INCLUDE_DIR -I/home/angel/Documents/My-Projects -isystem /home/angel/Documents/My-Projects/build/_deps/googletest-src/googletest/include -isystem /home/angel/Documents/My-Projects/build/_deps/googletest-src/googletest -g -std=gnu++11 -o CMakeFiles/main.dir/main.cpp.o -c /home/angel/Documents/My-Projects/main.cpp",
+  "file": "/home/angel/Documents/My-Projects/main.cpp",
+  "output": "CMakeFiles/main.dir/main.cpp.o"
+},
+{
+  "directory": "/home/angel/Documents/My-Projects/build",
+  "command": "/usr/bin/c++  -I/home/angel/Documents/My-Projects/SFML_INCLUDE_DIR -I/home/angel/Documents/My-Projects -isystem /home/angel/Documents/My-Projects/build/_deps/googletest-src/googletest/include -isystem /home/angel/Documents/My-Projects/build/_deps/googletest-src/googletest -g -std=gnu++11 -o CMakeFiles/main.dir/includes/animate.cpp.o -c /home/angel/Documents/My-Projects/includes/animate.cpp",
+  "file": "/home/angel/Documents/My-Projects/includes/animate.cpp",
+  "output": "CMakeFiles/main.dir/includes/animate.cpp.o"
+},
+{
+  "directory": "/home/angel/Documents/My-Projects/build",
+  "command": "/usr/bin/c++  -I/home/angel/Documents/My-Projects/SFML_INCLUDE_DIR -I/home/angel/Documents/My-Projects -isystem /home/angel/Documents/My-Projects/build/_deps/googletest-src/googletest/include -isystem /home/angel/Documents/My-Projects/build/_deps/googletest-src/googletest -g -std=gnu++11 -o CMakeFiles/main.dir/includes/game/display.cpp.o -c /home/angel/Documents/My-Projects/includes/game/display.cpp",
+  "file": "/home/angel/Documents/My-Projects/includes/game/display.cpp",
+  "output": "CMakeFiles/main.dir/includes/game/display.cpp.o"
+},
+{
+  "directory": "/home/angel/Documents/My-Projects/build",
+  "command": "/usr/bin/c++  -I/home/angel/Documents/My-Projects/SFML_INCLUDE_DIR -I/home/angel/Documents/My-Projects -isystem /home/angel/Documents/My-Projects/build/_deps/googletest-src/googletest/include -isystem /home/angel/Documents/My-Projects/build/_deps/googletest-src/googletest -g -std=gnu++11 -o CMakeFiles/main.dir/includes/game/engine.cpp.o -c /home/angel/Documents/My-Projects/includes/game/engine.cpp",
+  "file": "/home/angel/Documents/My-Projects/includes/game/engine.cpp",
+  "output": "CMakeFiles/main.dir/includes/game/engine.cpp.o"
+},
+{
+  "directory": "/home/angel/Documents/My-Projects/build",
+  "command": "/usr/bin/c++  -I/home/angel/Documents/My-Projects/SFML_INCLUDE_DIR -I/home/angel/Documents/My-Projects -isystem /home/angel/Documents/My-Projects/build/_deps/googletest-src/googletest/include -isystem /home/angel/Documents/My-Projects/build/_deps/googletest-src/googletest -g -std=gnu++11 -o CMakeFiles/main.dir/includes/random.cpp.o -c /home/angel/Documents/My-Projects/includes/random.cpp",
+  "file": "/home/angel/Documents/My-Projects/includes/random.cpp",
+  "output": "CMakeFiles/main.dir/includes/random.cpp.o"
+},
+{
+  "directory": "/home/angel/Documents/My-Projects/build",
+  "command": "/usr/bin/c++  -I/home/angel/Documents/My-Projects/SFML_INCLUDE_DIR -I/home/angel/Documents/My-Projects -isystem /home/angel/Documents/My-Projects/build/_deps/googletest-src/googletest/include -isystem /home/angel/Documents/My-Projects/build/_deps/googletest-src/googletest -g -std=gnu++11 -o CMakeFiles/main.dir/includes/sidebar.cpp.o -c /home/angel/Documents/My-Projects/includes/sidebar.cpp",
+  "file": "/home/angel/Documents/My-Projects/includes/sidebar.cpp",
+  "output": "CMakeFiles/main.dir/includes/sidebar.cpp.o"
+},
+{
+  "directory": "/home/angel/Documents/My-Projects/build",
+  "command": "/usr/bin/c++  -I/home/angel/Documents/My-Projects/SFML_INCLUDE_DIR -I/home/angel/Documents/My-Projects -isystem /home/angel/Documents/My-Projects/build/_deps/googletest-src/googletest/include -isystem /home/angel/Documents/My-Projects/build/_deps/googletest-src/googletest -g -std=gnu++11 -o CMakeFiles/main.dir/includes/system.cpp.o -c /home/angel/Documents/My-Projects/includes/system.cpp",
+  "file": "/home/angel/Documents/My-Projects/includes/system.cpp",
+  "output": "CMakeFiles/main.dir/includes/system.cpp.o"
+},
+{
+  "directory": "/home/angel/Documents/My-Projects/build",
+  "command": "/usr/bin/c++  -I/home/angel/Documents/My-Projects/SFML_INCLUDE_DIR -I/home/angel/Documents/My-Projects -isystem /home/angel/Documents/My-Projects/build/_deps/googletest-src/googletest/include -isystem /home/angel/Documents/My-Projects/build/_deps/googletest-src/googletest -g -std=gnu++11 -o CMakeFiles/basic_test.dir/_tests/_test_files/basic_test.cpp.o -c /home/angel/Documents/My-Projects/_tests/_test_files/basic_test.cpp",
+  "file": "/home/angel/Documents/My-Projects/_tests/_test_files/basic_test.cpp",
+  "output": "CMakeFiles/basic_test.dir/_tests/_test_files/basic_test.cpp.o"
+},
+{
+  "directory": "/home/angel/Documents/My-Projects/build",
+  "command": "/usr/bin/c++  -I/home/angel/Documents/My-Projects/SFML_INCLUDE_DIR -I/home/angel/Documents/My-Projects -isystem /home/angel/Documents/My-Projects/build/_deps/googletest-src/googletest/include -isystem /home/angel/Documents/My-Projects/build/_deps/googletest-src/googletest -g -std=gnu++11 -o CMakeFiles/basic_test.dir/includes/animate.cpp.o -c /home/angel/Documents/My-Projects/includes/animate.cpp",
+  "file": "/home/angel/Documents/My-Projects/includes/animate.cpp",
+  "output": "CMakeFiles/basic_test.dir/includes/animate.cpp.o"
+},
+{
+  "directory": "/home/angel/Documents/My-Projects/build",
+  "command": "/usr/bin/c++  -I/home/angel/Documents/My-Projects/SFML_INCLUDE_DIR -I/home/angel/Documents/My-Projects -isystem /home/angel/Documents/My-Projects/build/_deps/googletest-src/googletest/include -isystem /home/angel/Documents/My-Projects/build/_deps/googletest-src/googletest -g -std=gnu++11 -o CMakeFiles/basic_test.dir/includes/game/display.cpp.o -c /home/angel/Documents/My-Projects/includes/game/display.cpp",
+  "file": "/home/angel/Documents/My-Projects/includes/game/display.cpp",
+  "output": "CMakeFiles/basic_test.dir/includes/game/display.cpp.o"
+},
+{
+  "directory": "/home/angel/Documents/My-Projects/build",
+  "command": "/usr/bin/c++  -I/home/angel/Documents/My-Projects/SFML_INCLUDE_DIR -I/home/angel/Documents/My-Projects -isystem /home/angel/Documents/My-Projects/build/_deps/googletest-src/googletest/include -isystem /home/angel/Documents/My-Projects/build/_deps/googletest-src/googletest -g -std=gnu++11 -o CMakeFiles/basic_test.dir/includes/game/engine.cpp.o -c /home/angel/Documents/My-Projects/includes/game/engine.cpp",
+  "file": "/home/angel/Documents/My-Projects/includes/game/engine.cpp",
+  "output": "CMakeFiles/basic_test.dir/includes/game/engine.cpp.o"
+},
+{
+  "directory": "/home/angel/Documents/My-Projects/build",
+  "command": "/usr/bin/c++  -I/home/angel/Documents/My-Projects/SFML_INCLUDE_DIR -I/home/angel/Documents/My-Projects -isystem /home/angel/Documents/My-Projects/build/_deps/googletest-src/googletest/include -isystem /home/angel/Documents/My-Projects/build/_deps/googletest-src/googletest -g -std=gnu++11 -o CMakeFiles/basic_test.dir/includes/random.cpp.o -c /home/angel/Documents/My-Projects/includes/random.cpp",
+  "file": "/home/angel/Documents/My-Projects/includes/random.cpp",
+  "output": "CMakeFiles/basic_test.dir/includes/random.cpp.o"
+},
+{
+  "directory": "/home/angel/Documents/My-Projects/build",
+  "command": "/usr/bin/c++  -I/home/angel/Documents/My-Projects/SFML_INCLUDE_DIR -I/home/angel/Documents/My-Projects -isystem /home/angel/Documents/My-Projects/build/_deps/googletest-src/googletest/include -isystem /home/angel/Documents/My-Projects/build/_deps/googletest-src/googletest -g -std=gnu++11 -o CMakeFiles/basic_test.dir/includes/sidebar.cpp.o -c /home/angel/Documents/My-Projects/includes/sidebar.cpp",
+  "file": "/home/angel/Documents/My-Projects/includes/sidebar.cpp",
+  "output": "CMakeFiles/basic_test.dir/includes/sidebar.cpp.o"
+},
+{
+  "directory": "/home/angel/Documents/My-Projects/build",
+  "command": "/usr/bin/c++  -I/home/angel/Documents/My-Projects/SFML_INCLUDE_DIR -I/home/angel/Documents/My-Projects -isystem /home/angel/Documents/My-Projects/build/_deps/googletest-src/googletest/include -isystem /home/angel/Documents/My-Projects/build/_deps/googletest-src/googletest -g -std=gnu++11 -o CMakeFiles/basic_test.dir/includes/system.cpp.o -c /home/angel/Documents/My-Projects/includes/system.cpp",
+  "file": "/home/angel/Documents/My-Projects/includes/system.cpp",
+  "output": "CMakeFiles/basic_test.dir/includes/system.cpp.o"
+},
+{
+  "directory": "/home/angel/Documents/My-Projects/build",
+  "command": "/usr/bin/c++  -I/home/angel/Documents/My-Projects/SFML_INCLUDE_DIR -I/home/angel/Documents/My-Projects -isystem /home/angel/Documents/My-Projects/build/_deps/googletest-src/googletest/include -isystem /home/angel/Documents/My-Projects/build/_deps/googletest-src/googletest -g -std=gnu++11 -o CMakeFiles/testB.dir/_tests/_test_files/testB.cpp.o -c /home/angel/Documents/My-Projects/_tests/_test_files/testB.cpp",
+  "file": "/home/angel/Documents/My-Projects/_tests/_test_files/testB.cpp",
+  "output": "CMakeFiles/testB.dir/_tests/_test_files/testB.cpp.o"
+},
+{
+  "directory": "/home/angel/Documents/My-Projects/build",
+  "command": "/usr/bin/c++  -I/home/angel/Documents/My-Projects/SFML_INCLUDE_DIR -I/home/angel/Documents/My-Projects -isystem /home/angel/Documents/My-Projects/build/_deps/googletest-src/googletest/include -isystem /home/angel/Documents/My-Projects/build/_deps/googletest-src/googletest -g -std=gnu++11 -o CMakeFiles/testB.dir/includes/animate.cpp.o -c /home/angel/Documents/My-Projects/includes/animate.cpp",
+  "file": "/home/angel/Documents/My-Projects/includes/animate.cpp",
+  "output": "CMakeFiles/testB.dir/includes/animate.cpp.o"
+},
+{
+  "directory": "/home/angel/Documents/My-Projects/build",
+  "command": "/usr/bin/c++  -I/home/angel/Documents/My-Projects/SFML_INCLUDE_DIR -I/home/angel/Documents/My-Projects -isystem /home/angel/Documents/My-Projects/build/_deps/googletest-src/googletest/include -isystem /home/angel/Documents/My-Projects/build/_deps/googletest-src/googletest -g -std=gnu++11 -o CMakeFiles/testB.dir/includes/game/display.cpp.o -c /home/angel/Documents/My-Projects/includes/game/display.cpp",
+  "file": "/home/angel/Documents/My-Projects/includes/game/display.cpp",
+  "output": "CMakeFiles/testB.dir/includes/game/display.cpp.o"
+},
+{
+  "directory": "/home/angel/Documents/My-Projects/build",
+  "command": "/usr/bin/c++  -I/home/angel/Documents/My-Projects/SFML_INCLUDE_DIR -I/home/angel/Documents/My-Projects -isystem /home/angel/Documents/My-Projects/build/_deps/googletest-src/googletest/include -isystem /home/angel/Documents/My-Projects/build/_deps/googletest-src/googletest -g -std=gnu++11 -o CMakeFiles/testB.dir/includes/game/engine.cpp.o -c /home/angel/Documents/My-Projects/includes/game/engine.cpp",
+  "file": "/home/angel/Documents/My-Projects/includes/game/engine.cpp",
+  "output": "CMakeFiles/testB.dir/includes/game/engine.cpp.o"
+},
+{
+  "directory": "/home/angel/Documents/My-Projects/build",
+  "command": "/usr/bin/c++  -I/home/angel/Documents/My-Projects/SFML_INCLUDE_DIR -I/home/angel/Documents/My-Projects -isystem /home/angel/Documents/My-Projects/build/_deps/googletest-src/googletest/include -isystem /home/angel/Documents/My-Projects/build/_deps/googletest-src/googletest -g -std=gnu++11 -o CMakeFiles/testB.dir/includes/random.cpp.o -c /home/angel/Documents/My-Projects/includes/random.cpp",
+  "file": "/home/angel/Documents/My-Projects/includes/random.cpp",
+  "output": "CMakeFiles/testB.dir/includes/random.cpp.o"
+},
+{
+  "directory": "/home/angel/Documents/My-Projects/build",
+  "command": "/usr/bin/c++  -I/home/angel/Documents/My-Projects/SFML_INCLUDE_DIR -I/home/angel/Documents/My-Projects -isystem /home/angel/Documents/My-Projects/build/_deps/googletest-src/googletest/include -isystem /home/angel/Documents/My-Projects/build/_deps/googletest-src/googletest -g -std=gnu++11 -o CMakeFiles/testB.dir/includes/sidebar.cpp.o -c /home/angel/Documents/My-Projects/includes/sidebar.cpp",
+  "file": "/home/angel/Documents/My-Projects/includes/sidebar.cpp",
+  "output": "CMakeFiles/testB.dir/includes/sidebar.cpp.o"
+},
+{
+  "directory": "/home/angel/Documents/My-Projects/build",
+  "command": "/usr/bin/c++  -I/home/angel/Documents/My-Projects/SFML_INCLUDE_DIR -I/home/angel/Documents/My-Projects -isystem /home/angel/Documents/My-Projects/build/_deps/googletest-src/googletest/include -isystem /home/angel/Documents/My-Projects/build/_deps/googletest-src/googletest -g -std=gnu++11 -o CMakeFiles/testB.dir/includes/system.cpp.o -c /home/angel/Documents/My-Projects/includes/system.cpp",
+  "file": "/home/angel/Documents/My-Projects/includes/system.cpp",
+  "output": "CMakeFiles/testB.dir/includes/system.cpp.o"
+},
+{
+  "directory": "/home/angel/Documents/My-Projects/build/_deps/googletest-build/googlemock",
+  "command": "/usr/bin/c++  -I/home/angel/Documents/My-Projects/SFML_INCLUDE_DIR -I/home/angel/Documents/My-Projects/build/_deps/googletest-src/googlemock/include -I/home/angel/Documents/My-Projects/build/_deps/googletest-src/googlemock -isystem /home/angel/Documents/My-Projects/build/_deps/googletest-src/googletest/include -isystem /home/angel/Documents/My-Projects/build/_deps/googletest-src/googletest -g -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /home/angel/Documents/My-Projects/build/_deps/googletest-src/googlemock/src/gmock-all.cc",
+  "file": "/home/angel/Documents/My-Projects/build/_deps/googletest-src/googlemock/src/gmock-all.cc",
+  "output": "_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o"
+},
+{
+  "directory": "/home/angel/Documents/My-Projects/build/_deps/googletest-build/googlemock",
+  "command": "/usr/bin/c++  -I/home/angel/Documents/My-Projects/SFML_INCLUDE_DIR -isystem /home/angel/Documents/My-Projects/build/_deps/googletest-src/googlemock/include -isystem /home/angel/Documents/My-Projects/build/_deps/googletest-src/googlemock -isystem /home/angel/Documents/My-Projects/build/_deps/googletest-src/googletest/include -isystem /home/angel/Documents/My-Projects/build/_deps/googletest-src/googletest -g -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /home/angel/Documents/My-Projects/build/_deps/googletest-src/googlemock/src/gmock_main.cc",
+  "file": "/home/angel/Documents/My-Projects/build/_deps/googletest-src/googlemock/src/gmock_main.cc",
+  "output": "_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o"
+},
+{
+  "directory": "/home/angel/Documents/My-Projects/build/_deps/googletest-build/googletest",
+  "command": "/usr/bin/c++  -I/home/angel/Documents/My-Projects/SFML_INCLUDE_DIR -I/home/angel/Documents/My-Projects/build/_deps/googletest-src/googletest/include -I/home/angel/Documents/My-Projects/build/_deps/googletest-src/googletest -g -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /home/angel/Documents/My-Projects/build/_deps/googletest-src/googletest/src/gtest-all.cc",
+  "file": "/home/angel/Documents/My-Projects/build/_deps/googletest-src/googletest/src/gtest-all.cc",
+  "output": "_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o"
+},
+{
+  "directory": "/home/angel/Documents/My-Projects/build/_deps/googletest-build/googletest",
+  "command": "/usr/bin/c++  -I/home/angel/Documents/My-Projects/SFML_INCLUDE_DIR -isystem /home/angel/Documents/My-Projects/build/_deps/googletest-src/googletest/include -isystem /home/angel/Documents/My-Projects/build/_deps/googletest-src/googletest -g -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /home/angel/Documents/My-Projects/build/_deps/googletest-src/googletest/src/gtest_main.cc",
+  "file": "/home/angel/Documents/My-Projects/build/_deps/googletest-src/googletest/src/gtest_main.cc",
+  "output": "_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o"
+}
+]
